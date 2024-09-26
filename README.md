@@ -3,4 +3,4 @@
 * Linus Torvalds created the linux kernal.
 * The kernal of an OS is the lowest level component of the OS which allows all the communication to happen.
 * Richard Stallman created the GNU which stands for **GNU's Not Unix**.
-* The Linux commonly is being used techically a GNU-Linux
+* The Linux commonly is being used in the industry techically a GNU-Linux
